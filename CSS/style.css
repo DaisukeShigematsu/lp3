@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.top{
+  background-image: url(../img/top.png);
+  background-size: cover;
+}
+
+h1,h2 {
+  font-family: "ROLAchan", sans-serif;
+}
+
+h3,form,form-group,label,li{
+  font-family: "Ricty Diminished",sans-serif;
+}
